@@ -1,0 +1,1 @@
+A aplicação que desenvolvi é uma rede social. Ao analisar o protótipo visual, você perceberá que o layout segue um padrão semelhante ao de outras redes sociais populares, e também apresenta características e comportamentos parecidos.
